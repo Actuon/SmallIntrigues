@@ -1,0 +1,1 @@
+This is a toolset I built to work with a game engine I was coding in Java. It is incomplete and was based on one of the versions of the software renderer which is/are also in the SmallIntrigues repository of my Actuon github. I might finish this one day, but my design improved and I had other work, so this is mostly scrap.
